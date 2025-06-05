@@ -20,8 +20,8 @@ This capstone project is the culmination of our Data Analytics training at Bloss
 - `Group_6_Python_Project.ipynb`: The main notebook containing data cleaning, EDA, visualization, and machine learning.
 - `Group 6 Python Presentation.pptx`: A summary presentation of the findings.
 - `README.md`: Project documentation (you’re reading it!).
-- `data/`: Folder to store raw and cleaned data (if applicable).
-- `images/`: Folder for plots and visualizations (if saved externally).
+- `data/`: Folder to store raw and cleaned data.
+- `images/`: Folder for plots and visualizations.
 
 ## Key Objectives
 - Identify the top contributors to global GHG emissions over time.
@@ -41,7 +41,7 @@ This capstone project is the culmination of our Data Analytics training at Bloss
   
 - **Product vs. Fugitive Emissions**: A comparison of emission types showed significant contributions from both product-related emissions and fugitive methane leaks, especially from oil and gas.
   
-- **Emissions vs. Production Value**: A scatter plot on a log scale indicated a positive correlation between production value and emissions, suggesting financial incentives may drive emission intensity.
+- **Emissions vs. Production Value**: A scatter plot on a log scale indicated a positive but weak correlation between production value and emissions, suggesting financial incentives may drive emission intensity.
   
 - **2030 Emissions Forecast**: A predictive model forecasted continued growth in emissions by 2030 if no action is taken, reinforcing the urgency of climate mitigation policies.
 
